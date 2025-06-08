@@ -6,5 +6,6 @@ I made some CAD stuff in OnShape, I made the rails and the hinge with wheels, th
 
 # Day 2:
 ~ 5.25 hrs
-I made the entire schematic with a bunch of tweaks and stuff, I also assigned the footprints. The main issue was getting the perfect parts and doing a lot more research on the perfect footprints. I also planned how the PCB is going to look so later I can get work done really fast.  I also made a lot of edits with the wiring to make sure that I could access all the sensors properly. I looked through a lot of documentation to make sure that everything was in the right place and the wires were meant to be.
+I made the entire schematic with a bunch of tweaks and stuff, I also assigned the footprints. The main issue was getting the perfect parts and doing a lot more research on the perfect footprints. I also planned how the PCB is going to look so later I can get work done really fast. ![image](https://github.com/user-attachments/assets/7240da28-e8b1-4c0a-bd36-5b9a4555aee1) ![image](https://github.com/user-attachments/assets/bc527cbe-ecf5-4e82-a7b6-c3124bb8ac4a)
+ I also made a lot of edits with the wiring to make sure that I could access all the sensors properly. I looked through a lot of documentation to make sure that everything was in the right place and the wires were meant to be and I had to add pullups and capacitors in the right place or everything would be absolutely fried when I put it together.
 
