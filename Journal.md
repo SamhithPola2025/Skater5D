@@ -21,3 +21,4 @@ To complete:
 	•	BOM
 	•	Firmware
 	•	CAD with math (a little revisions to do since my calculations were off)
+    •   Formatting the files to match the normal format
