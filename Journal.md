@@ -9,3 +9,15 @@ I made some CAD stuff in OnShape, I made the rails and the hinge with wheels, th
 I made the entire schematic with a bunch of tweaks and stuff, I also assigned the footprints. The main issue was getting the perfect parts and doing a lot more research on the perfect footprints. I also planned how the PCB is going to look so later I can get work done really fast. ![image](https://github.com/user-attachments/assets/7240da28-e8b1-4c0a-bd36-5b9a4555aee1) ![image](https://github.com/user-attachments/assets/bc527cbe-ecf5-4e82-a7b6-c3124bb8ac4a)
  I also made a lot of edits with the wiring to make sure that I could access all the sensors properly. I looked through a lot of documentation to make sure that everything was in the right place and the wires were meant to be and I had to add pullups and capacitors in the right place or everything would be absolutely fried when I put it together.
 
+# Day 3:
+~ 5.75 hrs
+A LOT of schematic reworking and error solving. I had to go back into the schematic multiple times to fix wiring issues and voltage logic problems. After that I moved on to the PCB design, but that also went through a bunch of reworks — spacing, trace width, pad clearance issues, component repositioning. It took forever to get it clean and actually manufacturable, and every small fix led to new issues somewhere else. Mentally draining but productive.
+
+# Day 4:
+~ 4 hrs
+Today was CAD-heavy. I improved the rail design and made the mount for the PCB after exporting the 3D model from the board. Of course, with CAD comes math — and I had to revise a bunch of my earlier measurements because they were slightly off. I added more components to the PCB including LEDs and switches, and started working on the BOM (not completed yet). Overall, it’s starting to feel like a real system now.
+
+To complete:
+	•	BOM
+	•	Firmware
+	•	CAD with math (a little revisions to do since my calculations were off)
