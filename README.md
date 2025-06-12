@@ -1,6 +1,9 @@
 # Skater5D
 Skater5D is a skate assistant (for skateboards and not to be confused with roller skates) and it uses a set of 2 rails mounted onto the bottom of your skateboard that you can easily attatch and detatch to analzye your tricks! It uses 2 sensors and the microcontroller being used is the ESP32 S3 Mini-1 and it uses 2 sensors, a BMP sensor which can tell the altitude and can detect airtime, and a MPU sensor to detect movement and acceleration. The firmware is written in micropython and the schematic and PCB design is all in Kicad. The CAD software used is Onshape.
 
+# Why I made this:
+I made this because I am a skateboarder, simply I like to skateboard and try out new tricks, using this lighweight (on a relative scale to other products) design that I made I can perfect my tricks easier. I also made this to help other skateboarders, and even professional ones, because this can track the airtime and other statistics, not just your tricks. This was a pain to make but in the end I think it was worth making it, It also uses different sensors and concepts, perfect for me to learn hardware related content. I also made this to promote the skateboarding community with coding, combining 2 of my interests!
+
 Pictures:
 ![image](https://github.com/user-attachments/assets/94f93067-b7e2-4621-94e4-e78f912e3421)
 ![image](https://github.com/user-attachments/assets/8871b61e-35f8-4433-9143-82b743c35775)
