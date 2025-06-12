@@ -22,3 +22,32 @@ To complete:
 	•	Firmware
 	•	CAD with math (a little revisions to do since my calculations were off)
     •   Formatting the files to match the normal format
+
+# Day 5:
+~ 5 hrs
+Today marks the final official day of this sprint, and honestly, it feels both satisfying and slightly open-ended — like there’s more to chase, which I kind of like.
+
+What I Did Today
+	•	Switched from mock code to real code for my skateboard motion classifier
+	•	Set up the MicroPython script on the ESP32-S3 Mini-1 to stream real-time data from the MPU6050 sensor
+	•	Built the full PC-side classifier using fastdtw, NumPy, and matplotlib to detect tricks from motion patterns
+	•	Planned out how I’ll record ollie/kickflip patterns for training
+
+Even though I don’t have the physical hardware yet, I now have a fully working pipeline from board → sensor → ESP32 → serial → real-time visualization → classification.
+
+What I Learned
+	•	How to structure embedded + host code together in a real hardware project
+	•	That real-time classification is way more intuitive when you can visualize the data
+	•	That using DTW to match time-series patterns actually works better than I expected
+	•	The small details (like loading different .npy files or managing buffer sizes) really matter in signal-based ML
+
+How I Felt
+
+Honestly? Mixed. Hack Club cancelling the event hit my motivation for a bit. It felt like the “why” was gone. But I remembered this wasn’t about a prize — I’m building something that moves between the digital and physical world, and that’s always been fun to me. That feeling came back.
+
+Final Thoughts
+
+This isn’t really the end. I’m still gonna finish the trick recorder, build out more classifiers, and solder the board when it arrives. This log just marks the end of the first version. I finally feel like I’m doing a real hardware/software fusion project — and this time, I didn’t just start it, I stuck with it.
+
+TL;DR:
+On Day 5, I wrapped up the core pipeline for my ESP32-based skateboard classifier. Even without hardware, I now have real code working end-to-end — this week taught me way more than just coding. When the PCBA arrives and I 3D print everything ill continue this journal, submitting to highway for now!
