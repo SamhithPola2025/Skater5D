@@ -50,4 +50,4 @@ Final Thoughts
 This isn’t really the end. I’m still gonna finish the trick recorder, build out more classifiers, and solder the board when it arrives. This log just marks the end of the first version. I finally feel like I’m doing a real hardware/software fusion project — and this time, I didn’t just start it, I stuck with it.
 
 TL;DR:
-On Day 5, I wrapped up the core pipeline for my ESP32-based skateboard classifier. Even without hardware, I now have real code working end-to-end — this week taught me way more than just coding. When the PCBA arrives and I 3D print everything ill continue this journal, submitting to highway for now!
+On Day 5, I wrapped up the core pipeline for my ESP32-based skateboard classifier. Even without hardware, I now have real code working end-to-end — this week taught me way more than just coding. When the PCBA arrives and I 3D print everything ill continue this journal, submitting to highway for now! I also have to tweak the /Users/samhithpola/Documents/GitHub/Skater5D/Production/Firmware/pc_trick_classifier/main.py file because it works for the raspberry pi, not the ESP32 S3 Mini-1, easy fix though!
