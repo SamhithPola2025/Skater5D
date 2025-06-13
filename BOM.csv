@@ -1,0 +1,8 @@
+BOM:
+
+Part Number,Description,Quantity,Unit Price,Total Price,Supplier,URL,Notes
+BatteryHolder-2x18650-BarrelJack,"2x18650 Battery Holder with DC 2.1mm Barrel Jack",1,2.97,2.97,DigiKey,https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/114090053/10451921,"Holds 2x18650 cells in series"
+USB-C-Buck-Converter-5V,"12–24V to 5V USB-C Buck Converter Module",1,5.37,5.37,Amazon,https://www.amazon.com/dp/B0BHGCV2QN,"Step-down converter to 5V USB-C male output"
+65458-SIP-M6-10-A2,Phillips Pan Head Screw M6 x 10mm A2 Stainless Steel,10,0.12,1.20,Accu,https://accu-components.com/us/phillips-pan-head-screws/65458-SIP-M6-10-A2,
+Local3DPrintService,"Custom 3D Printing of All CAD Parts (local service)",1,0.00,0.00,Local,"N/A","Coordinate with nearby makerspace or local print shop"
+JLCPCB-PCBA-Quote,"JLCPCB PCBA Service for all SMT + Assembly + Global Sourcing Parts",1,150.00,150.00,JLCPCB,https://jlcpcb.com,"Includes all mounted parts, SMT assembly, stencil, and sourcing"
