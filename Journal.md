@@ -60,3 +60,9 @@ What I Learned
 
 TL;DR:
 On Day 5, I wrapped up the core pipeline for my ESP32-based skateboard classifier. Even without hardware, I now have real code working end-to-end — this week taught me way more than just coding. When the PCBA arrives and I 3D print everything ill continue this journal, submitting to highway for now! I also have to tweak the /Users/samhithpola/Documents/GitHub/Skater5D/Production/Firmware/pc_trick_classifier/main.py file because it works for the raspberry pi, not the ESP32 S3 Mini-1, easy fix though!
+
+# Day 6:
+
+![image](https://github.com/user-attachments/assets/388cd0e0-2b5f-4a3b-b1a2-866c610505fb)
+Sadly no building today however I HEAVILY refactored the schematic with net labels and things to make it look cleaner, following some suggestions I got I changed both sensors so its cheaper and fits my needs better, finding footprints took a while but atleast I found footprints for the breakout boards faster than it would take me to make my own footprints, and I forgot to mention I changed everything to breakout boards so I can actually solder things and not waste my money on PCBA which can easily be fixed with breakout boards that you can scrape off amazon for cheap! I also made a new PCB layout:
+
