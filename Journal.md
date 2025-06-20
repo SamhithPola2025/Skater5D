@@ -60,3 +60,15 @@ What I Learned
 
 TL;DR:
 On Day 5, I wrapped up the core pipeline for my ESP32-based skateboard classifier. Even without hardware, I now have real code working end-to-end — this week taught me way more than just coding. When the PCBA arrives and I 3D print everything ill continue this journal, submitting to highway for now! I also have to tweak the /Users/samhithpola/Documents/GitHub/Skater5D/Production/Firmware/pc_trick_classifier/main.py file because it works for the raspberry pi, not the ESP32 S3 Mini-1, easy fix though!
+
+# Day 6: 
+Sadly not building today (A lot of parts will arrive today though) but I decided to fix the schematic using net labels, and changed the sensor models. My BMP and MPU sensors are now a ToF sensor instead of the BMP because I figured that works better for small changes in distance from the ground and the barometric pressure barely changes when you move only 1mm upwards. I also decided to change the MPU sensor to a better one which is the BNO08X and this would make things cheaper and more reliable. And I am using breakout boards from AdaFruit this way I can actually solder things and not have to do PCBA so I can save hackclubs money and my time and brain cells. I also updated the PCB layout to have 90 degree angle brackets for the TOF sensor and changed the overall layout. Using breakout boards meant I saved a lot of time this time around, and luckily I did not order parts from my old design yet except for 1 which I can still use with this design.
+
+![image](https://github.com/user-attachments/assets/c948c777-018e-4c06-9b0d-0c5712253481)
+(Ignore the label saying OLED LCD 1X16, that is supposed to be a character LCD I just gave it a very scuffed name)
+![Screenshot 2025-06-19 at 7 10 43 PM](https://github.com/user-attachments/assets/9a56ab5e-4578-4126-b8d5-34d844531b8c)
+I also edited the CAD to fit the new PCB dimensions.
+![image](https://github.com/user-attachments/assets/3122b43c-5e59-45ad-9b41-dd37318552c8)
+
+Overall these changes should be what I am ordering from JLCPCB and the external parts that I am ordering. The entire thing is refactored to be a lot better in general.
+
