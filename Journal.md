@@ -72,3 +72,14 @@ I also edited the CAD to fit the new PCB dimensions.
 ![image](https://github.com/user-attachments/assets/3122b43c-5e59-45ad-9b41-dd37318552c8)
 
 Overall these changes should be what I am ordering from JLCPCB and the external parts that I am ordering. The entire thing is refactored to be a lot better in general.
+
+# Day 7
+~ 3 hrs
+I built my PCB and soldered in all the components after they took a grand total of 14 days to arrive very painful.
+![image](https://github.com/user-attachments/assets/02b92d4a-e382-45b7-a569-132352f4c7b6)
+![image](https://github.com/user-attachments/assets/a1294d93-86da-49a6-be3e-e5f8219cc92f)
+These are the images of my fully soldered PCB, I will 3d print the parts and hopefully they will finish by tommorow.
+![image](https://github.com/user-attachments/assets/a1294d93-86da-49a6-be3e-e5f8219cc92f)
+
+![image](https://github.com/user-attachments/assets/02b92d4a-e382-45b7-a569-132352f4c7b6)
+
