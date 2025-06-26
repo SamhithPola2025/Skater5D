@@ -79,7 +79,4 @@ I built my PCB and soldered in all the components after they took a grand total 
 ![image](https://github.com/user-attachments/assets/02b92d4a-e382-45b7-a569-132352f4c7b6)
 ![image](https://github.com/user-attachments/assets/a1294d93-86da-49a6-be3e-e5f8219cc92f)
 These are the images of my fully soldered PCB, I will 3d print the parts and hopefully they will finish by tommorow.
-![image](https://github.com/user-attachments/assets/a1294d93-86da-49a6-be3e-e5f8219cc92f)
-
-![image](https://github.com/user-attachments/assets/02b92d4a-e382-45b7-a569-132352f4c7b6)
 
