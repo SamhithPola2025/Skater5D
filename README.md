@@ -8,6 +8,8 @@ Pictures:
 ![image](https://github.com/user-attachments/assets/94f93067-b7e2-4621-94e4-e78f912e3421)
 ![image](https://github.com/user-attachments/assets/ccc2e75d-876b-4caa-a7b9-411f168bafaa)
 ![image](https://github.com/user-attachments/assets/be2a53b9-e9bb-4d00-8aea-d252043a378c)
+<img width="396" height="378" alt="image" src="https://github.com/user-attachments/assets/a5d5646f-89ce-4429-b5cc-2cae1ed110f4" />
+
 
 I learnt a great deal from the making of this project, but in general the key takeaways I had was to do with PCB designing and a lot of stuff related to wiring and general electronics, I had to do a lot of studying on circuits to make sure everything is wired correctly and I almost ended up short circuiting a lot of stuff. I also had a lot of learning to do with JLCPCB and PCB's in general. I learned a lot about CSV formatting and how to find parts for cheap (which is an art, it is NOT easy to find cheap parts haha). Overall this provided me with a really strong foundation over hardware.
 
